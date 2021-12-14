@@ -13,5 +13,4 @@ function mult(x, y){
 
 
 module.exports.soma = soma;
-
 module.exports.mult = mult; 
